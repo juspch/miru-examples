@@ -41,6 +41,5 @@ services:
 networks:
   react-express:
   express-mongo:
-
 volumes:
   mongo_data:
